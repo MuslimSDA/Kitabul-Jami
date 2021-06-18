@@ -95,7 +95,93 @@
         ]
     },
     {
-        "bab" : "Bab 2 - Silaturahim dan Kebaikan"
+        "bab" : "Bab 2 - Silaturahim dan Kebaikan",
+        "hadits": [
+            {
+                "title" : "Keutamaan Silaturrahim",
+                "before": "",
+                "arabic": "عَنْ أَبِيْ هُرَيْرَةَ رضي الله عنه قَالَ: قَالَ رسول الله صلى الله عليه و سلم: مَنْ أَحَبَّ أَنْ يُبْسَطَ لَهُ فِى رِزْقِهِ وَيُنْسَأَ لَهُ فِى أَثَرِهِ فَلْيَصِلْ رَحِمَهُ (أخرجه البخاري)",
+                "id": "Dari Abū Hurairah radhiyallāhu Ta’āla ‘anhu berkata: Rasulullāh shallallāhu ‘alayhi wa sallam bersabda: “Barangsiapa senang untuk dilapangkan rizki dan dipanjangkan umurnya, maka jalinlah tali silaturahim (hubungan antar kerabat).” (HR Bukhari)"
+            },
+            {
+                "title" : "Larangan Memutus Silaturahmi",
+                "before": "",
+                "arabic": "وَعَنْ جُبَيْرِ بْنِ مُطْعِمٍ رضي الله عنه قالَ: قَالَ رَسُوْلُ اللَّه صلى الله عليه و سلم : “لاَ يَدْخُلُ الْجَنَّةَ قَاطِعٌ” يَعْنِي: قَاطِعَ رَحِمٍ. مُتَّفَقٌ عَلَيْهِ.",
+                "id": "Dari Jubair bin Muth‘im Radiyallāhu anhu ia berkata: Rasūlullāh Shallallāhu Alayhi Wasallam bersabda: “Tidak akan masuk surga orang yang memutus silaturahim.” (Muttafaqun ‘alaih)."
+            },
+            {
+                "title" : "Perbuatan Yang Diharamkan",
+                "before": "",
+                "arabic": "وَعَنِ الْمُغِيْرَةِ بْنِ شُعْبَةَ رضي الله عنه عَنْ رَسُوْلِ اللَّهِ صلى الله عليه و سلم قَالَ: “إِنَّ اللَّهَ حَرَّمَ عَلَيْكُمْ عُقُوْقَ الأُمَّهَاتِ، وَوَأْدَ اَلْبَنَاتِ، وَمَنْعًا وَهَاتِ، وَكَرِهَ لَكُمْ قِيْلَ وَقَالَ، وَكَثْرَةَ السُّؤَالِ، وَإِضَاعَةَ الْمَالِ.” مُتَّفَقٌ عَلَيْهِ.",
+                "id": "Dari Al-Mughirah bin Syu’bah radhiyallāhu ‘anhu, dari Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: “Sesungguhnya Allāh Subhānahu Wa Ta’āla mengHARAMkan atas kalian: Durhaka kepada para ibu, Mengubur anak-anak perempuan hidup-hidup, Hanya sekedar bisa menuntut hak, sementara tidak menunaikan hak orang lain (banyak menuntut sesuatu yang tidak pantas dituntutnya), Mengatakan “katanya & katanya” (banyak menukil perkataan manusia, Terlalu banyak bertanya (meminta), Dan membuang-buang (menyia-nyiakan) harta.” (Muttafaqun ‘alaih)."
+            },
+            {
+                "title" : "Keutamaan Keridhaan Orang Tua",
+                "before": "",
+                "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ رضي الله عنهما: عَنِ النَّبِيِّ صلى الله عليه و سلم قَالَ: “رِضَا اللَّهِ فِـيْ رِضَا الْوَالِدَيْـنِ، و سخط اللَّهِ فِـيْ سخط الْوَالِدَيْنِ (أَخْرَجَهُ التِّرْمِذِيُّ، وَصَحَّحَهُ ابْنُ حِبَّانَ وَالْحَاكِمُ)",
+                "id": "Dari ‘Abdullāh bin ‘Amr bin al ‘Āsh Radhiyallāhu Ta’āla ‘anhumā: dari Nabi shallallāhu ‘alayhi wa sallam Beliau bersabda: “Ke-ridhā-an Allāh itu berada pada keridhā-an kedua orang tua, dan kemarahan Allāh itu berada pada kemarahan kedua orang tua.” (HR Tirmidzi dan dishahihkan oleh Ibnu Hibbān dan Al-Hākim)"
+            },
+            {
+                "title" : "Anjuran Agar Menghormati Tetangga",
+                "before": "",
+                "arabic": "وَعَنْ أَنَس رضي الله عنه عَنْ النَّبِيِّ صلى الله عليه و سلم قَالَ: “وَالَّذِيْ نَفْسِيْ بِيَدِهِ لاَ يُؤْمِنُ عَبْدٌ حَتَّى يُحِبَّ لِجَارِهِ مَا يُحِبُّ لِنَفْسِهِ.” مُتَّفَقٌ عَلَيْهِ.",
+                "id": "Dari Anas Radiyallāhu anhu dari Nabi Shallallāhu Alayhi Wasallam, beliau bersabda: “Demi Dzat yang jiwaku berada ditanganNya, tidaklah (sempurna) beriman seorang hamba sampai dia menyukai bagi tetangganya kebaikan yang dia suka untuk dirinya.” (Muttafaqun ‘alaih, diriwayatkan oleh Imām Bukhāri dan Imām Muslim)"
+            },
+            {
+                "title" : "Syirik Dan Dosa-Dosa Besar",
+                "before": "",
+                "arabic": "وَعَنِ ابْنِ مَسْعُوْدٍ رضي الله عنه قَالَ: سَأَلْتُ رَسُوْلَ اللَّهِ صلى الله عليه و سلم : أَيُّ الذَّنْبِ أَعْظَمُ؟ قَالَ: “أَنْ تَجْعَلَ لِلّهِ نِدًّا وَهُوَ خَلَقَكَ” قُلْتُ: ثُمَّ أَيُّ؟ قَالَ: “أَنْ تَقْتُلَ وَلَدَكَ خَشْيَةَ أَنْ يَأْكُلَ مَعَكَ” قُلْتُ: ثُمَّ أَيُّ؟ قَالَ: “أَنْ تُزَانِيَ حَلِيْلَةَ جَارِكَ”.” مُتَّفَقٌ عَلَيْهِ.",
+                "id": "Dari Ibnu Mas‘ud Radiyallāhu ‘anhu beliau berkata: Saya pernah bertanya kepada Rasūlullāh Shallallāhu Alayhi Wasallam : “Dosa apa yang paling besar?” Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: “Jika kamu menjadikan sekutu bagi Allah Subhānahu wa-ta’āla padahal Dia yang menciptakanmu.” “Kemudian apa?” Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: “Jika engkau membunuh anakmu karena takut ia makan bersamamu.” “Kemudian apa?” Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: “Jika kamu berzina dengan isteri tetanggamu.” (Muttafaqun ‘alaih)."
+            },
+            {
+                "title" : "Mencaci Maki Orang Tua",
+                "before": "",
+                "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ رضي الله عنهما أَنَّ رَسُوْلَ اللَّهِ صلى الله عليه و سلم قَالَ: “مِن الكَبَائِرِ: شتم الرَّجُلِ وَالِدَيْهِ” قِيْلَ: وَهَلْ يَسُبُّ الرَّجُلُ وَالِدَيْهِ؟ قَالَ: “نَعَمْ، يَسُبُّ أَبَا الرَّجُلِ، فَيَسُبُّ الرجل أَبَاهُ، وَيَسُبُّ أُمَّهُ، فَيَسُبُّ أُمَّهُ.” مُتَّفَقٌ عَلَيْهِ.",
+                "id": "Dari shahābat ‘Abdullāh bin ‘Amr bin ‘Āsh radhiyallāhu Ta’āla ‘anhumā bahwasanya Rasūlullāh Shallallāhu Alayhi Wa sallam bersabda: “Diantara dosa besar adalah seorang lelaki memaki kedua orang tuanya.” Maka ditanyakan kepada Nabi: “Apakah ada seorang mencaci maki kedua orang tuanya?” Rasūlullāh Shallallāhu Alayhi Wa sallam bersabda: “Ya ada, seseorang mencaci ayah orang lain, maka orang lain tersebut kembali mencaci ayahnya. Dan (demikian juga) ia mencaci maki ibu orang lain, lalu orang lain tersebut mencaci ibunya pula.” (HR Imām Bukhāri dan Imām Muslim)"
+            },
+            {
+                "title" : "Larangan Mendiamkan Saudaranya Lebih Dari Tiga Hari",
+                "before": "",
+                "arabic": "عنْ أبي أَيُّوبَ رَضِيَ الله تَعَالَى عَنْهُ، أنَّ رسولَ الله صَلَّى الله عَلَيْهِ وَسَلَّمَ قالَ: لَا يَحِلُّ لمُسْلِمٍ أَنْ يَهْجُرَ أَخَاهُ فَوْقَ ثَلَاثِ لَيَالٍ، يَلْتَقِيَانِ فَيُعْرِضُ هَذَا وَيُعْرِضُ هَذَا، وَخَيْرُهُمَا الَّذِي يَبْدَأُ بِالسَّلَامِ. (مُتَّفَقٌ عليهِ)",
+                "id": "Dari Abū Ayyūb radhiyallāhu Ta’āla ‘anhu: Bahwasanya Rasūlullāh shallallāhu ‘alayhi wa sallam berkata: “Tidak halal bagi seorang muslim untuk menghajr (memboikot) saudaranya lebih dari 3 malam (yaitu 3 hari). Mereka berdua bertemu namun yang satu berpaling dan yang lainnya juga berpaling. Dan yang terbaik diantara mereka berdua yaitu yang memulai dengan memberi salam.” (Muttafaqun ‘alaih, diriwayatkan oleh Imām Bukhāri dan Imām Muslim)"
+            },
+            {
+                "title" : "Setiap Kebaikan Adalah Sedekah",
+                "before": "",
+                "arabic": "وَعَنْ جَابِرٍ رضي الله عنه قَالَ: قاَلَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “كُلُّ مَعْرُوْفٍ صَدَقَةٌ.” أَخْرَجَهُ الْبُخَارِيُّ.",
+                "id": "Dari Jābir radhiyallāhu Ta’āla ‘anhu, dia berkata: Rasūlullāh Shallallāhu Alayhi Wasallam bersabda: “Seluruh perbuatan baik merupakan sedekah.” (HR Imām Al Bukhari)"
+            },
+            {
+                "title" : "Larangan Memandang Rendah Suatu Kebaikan",
+                "before": "",
+                "arabic": "عَنْ أَبِيْ ذَرٍّ رضي الله عنه قَالَ: قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “لاَ تَحْقِرَنَّ مِنَ الْمَعْرُوْفِ شَيْئاً، وَلَوْ أَنْ تَلْقَى أَخَاكَ بِوَجْهٍ طَلْقٍ.” أَخْرَجَهُ مُسْلِمٌ.",
+                "id": "Dari Abu Dzarr Radhiyallāhu ‘anhu ia berkata: Rasūlullāh Shallallāhu Alayhi Wasallam bersabda: “Janganlah kamu meremehkan kebaikan apapun, meskipun kau bertemu dengan saudaramu dengan wajah berseri-seri.” (Hadits shahīh diriwayatkan oleh Imām Muslim)."
+            },
+            {
+                "title" : "Anjuran Memperhatikan Tetangga",
+                "before": "",
+                "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “إِذَا طَبَخْتَ مَرَقَةً فَأَكْثِرْ مَاءَهَا وَتَعَاهَدْ جِـيْرَانَكَ.” أَخْرَجَهُ مُسْلِمٌ .",
+                "id": "Dari Abū Dzarr radhiyallāhu Ta’āla ‘anhu, beliau berkata: Rasūlullāh Shallallāhu Alayhi Wasallam bersabda: “Jika engkau memasak kuah, maka perbanyaklah airnya dan perhatikanlah tetangga-tetanggamu.” (HR Muslim)"
+            },
+            {
+                "title" : "Menghilangkan Penderitaan Sesama Muslim ",
+                "before": "",
+                "arabic": "عَنْ أَبِي هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى الله عَلَيْهِ وَسَلَّمَ قَالَ مَنْ نَفَّسَ عَنْ مُسْلِمٍ كُرْبَةً مِنْ كُرَبِ الدُّنْيَا نَفَّسَ الله عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ وَمَنْ يَسَّرَ عَلَى مُعْسِرٍ يَسَّرَ اللَّهُ عَلَيْهِ فِي الدُّنْيَا وَالْآخِرَةِ وَمَنْ سَتَرَ عَلَى مُسْلِمٍ سَتَرَ اللَّهُ عَلَيْهِ فِي الدُّنْيَا وَالْآخِرَةِ وَاللَّهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيهِ",
+                "id": "Dari shāhabat Abū Hurairah radhiyallāhu ‘anhu, beliau berkata, Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda, Barangsiapa yang menghilangkan dari seorang Muslim penderitaannya dari penderitaan di dunia, maka Allāh akan menghilangkan darinya dari penderitaan-penderitaan hari Kiamat. Barangsiapa yang memudahkan bagi orang yang mengalami kesulitan karena terlilit hutang, maka Allāh akan memudahkan baginya urusan di dunia dan di akhirat. Barangsiapa yang menutupi aib orang Islam, maka Allāh akan menutupi aibnya di dunia dan di akhirat. Allāh senantiasa menolong hamba tersebut jika seorang hamba menolong saudaranya.” (HR Muslim)"
+            },
+            {
+                "title" : "Keutamaan Orang Yang Menunjukkan Kepada Kebaikan",
+                "before": "",
+                "arabic": "وعَنْ ابن مَسْعُوْدٍ رضي الله عنه قاَلَ: قاَلَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “مَنْ دَلَّ عَلَى خَيْرٍ، فَلَهُ مِثْلُ أَجْرِ فاَعِلِهِ.” أَخْرَجَهُ مُسْلِمٌ .",
+                "id": "Dari shahābat Ibnu Mas’ūd radhiyallāhu Ta’āla anhu, beliau berkata: Rasūlullāh shallallāhu ‘alayhi wasallam bersabda: “Barangsiapa yang menunjukkan kepada kebaikan, maka bagi dia pahala yang orang yang mengerjakan kebajikan tersebut.” (HR Muslim)"
+            },
+            {
+                "title" : "Keutamaan Membalas Kebaikan",
+                "before": "",
+                "arabic": "وَعَنِ ابْنِ عُمَرَ رضي الله تعالى عنهما: عَنِ النَّبِيِّ صلى الله عليه و سلم قَالَ: “مَنِ اسْتَعاَذَكُمْ بِاللَّهِ فَأَعِيْذُوْهُ، وَمَنْ سَأَلَكُمْ بِاللَّهِ فَأَعْطُوْهُ، وَمَنْ أَتَى إِلَيْكُمْ مَعْرُوْفاً فَكَافِئُوْهُ، فَإِنْ لَمْ تَجِدُوْا فاَدْعُوْا لَهُ.” أَخْرَجَهُ الْبَيْهَقِيُّ.",
+                "id": "Dari shahābat Ibnu ‘Umar Radhiyallāhu anhumā ia berkata: Dari Rasūlullāh Shallallāhu ‘Alayhi Wasallam, Beliau bersabda: “Barangsiapa yang memohon pertolongan kepada kalian dengan bertawasul (dengan menyebut nama Allāh) maka tolonglah dia. Dan barangsiapa yang meminta kepada kalian dengan menyebut nama Allāh maka penuhilah permintaannya. Dan barangsiapa yang berbuat baik kepada kalian maka balaslah (kebaikan tersebut). Jika kalian tidak mendapati (apa yang bisa kalian buat balas kebaikan tersebut) maka do’akanlah dia (orang yang berbuat baik tersebut).” (HR. Imam Baihaqi, hadist shahīh, dishahihkan oleh Ibnu Hibban dan Al-Hakim dan disepakati oleh Imam Adz-Dzahabi rahimahullāh Ta’āla)"
+            }
+        ]
     },
     {
         "bab" : "Bab 3 - Sifat Zuhud dan Wara'"
