@@ -1,0 +1,27 @@
+[
+    {
+        "bab" : "Bab 1 - Adab",
+        "hadits": [
+            {
+                "title" : "Hak Sesama Muslim",
+                "arabic": "عَنْ أَبِيْ هُرَيْرَةَ رضي الله عنه قَالَ: قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “حَقُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ سِتٌّ: إِذَا لَقِيْتَهُ فَسَلِّمْ عَلَيْهِ، وَإِذَا دَعَاكَ فَأَجِبْهُ، وَإِذَا اسْتَنْصَحَكَ فَانْصَحْهُ، وَإِذَا عَطَسَ فَحَمِدَ اللَّهَ فَسَمِّتْهُ، وَإِذاَ مَرِضَ فَعُدْهُ، وَإِذاَ مَاتَ فَاتْـبَعْهُ.” رَوَاهُ مُسلِمٌ.",
+                "id" : "Dari Abu Hurairah Radiyallahu anhu ia berkata: Rasulullah Sallallahu Alayhi Wasallam bersabda: ”Hak seorang muslim terhadap sesama muslim itu ada enam: jika kamu bertemu dengannya maka ucapkanlah salam, jika ia mengundangmu maka penuhilah undangannya, jika ia meminta nasihat kepadamu maka berilah ia nasihat, jika ia bersin dan mengucapkan ‘Alhamdulillah’ maka do‘akanlah ia dengan ‘Yarhamukallah’, jika ia sakit maka jenguklah dan jika ia meninggal dunia maka iringilah jenazahnya.” (HR. Muslim)."
+            }
+        ]
+    },
+    {
+        "bab" : "Bab 2 - Silaturahim dan Kebaikan"
+    },
+    {
+        "bab" : "Bab 3 - Sifat Zuhud dan Wara'"
+    },
+    {
+        "bab" : "Bab 4 - Peringatan Terhadap Akhlak-Akhlak Buruk"
+    },
+    {
+        "bab" : "Bab 5 - Anjuran Memiliki Akhlah Mulia"
+    },
+    {
+        "bab" : "Bab 6 - Dzikir dan Doa'"
+    }
+]
