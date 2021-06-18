@@ -4,8 +4,93 @@
         "hadits": [
             {
                 "title" : "Hak Sesama Muslim",
+                "before": "",
                 "arabic": "عَنْ أَبِيْ هُرَيْرَةَ رضي الله عنه قَالَ: قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “حَقُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ سِتٌّ: إِذَا لَقِيْتَهُ فَسَلِّمْ عَلَيْهِ، وَإِذَا دَعَاكَ فَأَجِبْهُ، وَإِذَا اسْتَنْصَحَكَ فَانْصَحْهُ، وَإِذَا عَطَسَ فَحَمِدَ اللَّهَ فَسَمِّتْهُ، وَإِذاَ مَرِضَ فَعُدْهُ، وَإِذاَ مَاتَ فَاتْـبَعْهُ.” رَوَاهُ مُسلِمٌ.",
                 "id" : "Dari Abu Hurairah Radiyallahu anhu ia berkata: Rasulullah Sallallahu Alayhi Wasallam bersabda: ”Hak seorang muslim terhadap sesama muslim itu ada enam: jika kamu bertemu dengannya maka ucapkanlah salam, jika ia mengundangmu maka penuhilah undangannya, jika ia meminta nasihat kepadamu maka berilah ia nasihat, jika ia bersin dan mengucapkan ‘Alhamdulillah’ maka do‘akanlah ia dengan ‘Yarhamukallah’, jika ia sakit maka jenguklah dan jika ia meninggal dunia maka iringilah jenazahnya.” (HR. Muslim)."
+            },
+            {
+                "title" : "Pandanglah Orang yang di Bawahmu dalam Masalah Dunia",
+                "before": "",
+                "arabic": "عَنْ أَبِيْ هُرَيْرَةَ رضي اللّه عنه قَالَ:قَالَ رَسُوْلُ اللّهِ صلّى اللّه عليه وسلّم أُنْظُرُوْا إِلَى مَنْ هُوَ أَسْفَلَ مِنْكُمْ وَلَا تَنْظُرُوْا إِلَى مَنْ هُوَ فَوْقَكُمْ فَهُوَ أَجْدَرُ عَنْ لاَ تَزْدَرُوْا نِعْمَةَ اللَّهِ عَلَيْكُمْ",
+                "id" : "Dari Abū Hurairah radhiyallāhu Ta’ālā ‘anhu ia berkata: Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: “Lihatlah kepada yang di bawah kalian dan janganlah kalian melihat yang di atas kalian sesungguhnya hal ini akan menjadikan kalian tidak merendahkan nikmat Allāh yang Allāh berikan kepada kalian”. (HR. Imām Bukhāri dan Imām Muslim)"
+            },
+            {
+                "title" : "Hakekat Kebaikan dan Dosa Bagian",
+                "before": "",
+                "arabic": "وَ عَنِ النَّوَّاسِ ابْنِ سَمْعَانَ رضي اللّه عنه قَالَ سَأَلْتُ رَسُوْلَ اللّهِ صلّى اللّه عليه وسلّم عَنِ الْبِرِّ وَ اْلأِثْمِ فَقَالَ اَلْبِرُّ حُسْنُ الْخُلُقِ وَ اْلأِثْمُ مَا حَاكَ فِى صَدْرِكَ وَكَرِهْتَ أَنْ يَطَّلِعَ عَلَيْهِ النَّاس",
+                "id" : "Dari sahabat Nawwas bin Sam’an radhiyallāhu Ta’ālā ‘anhu beliau berkata: Aku bertanya kepada Rasūlullāh shallallāhu ‘alayhi wa sallam tentang makna AlBirr (yaitu kebajikan) dan itsm (yaitu dosa)-Apa itu kebajikan? Apa itu dosa?. Maka Rasūlullāh shallallāhu ‘alayhi wa sallam berkata AlBirr (kebajikan) adalah akhlaq yang mulia. Adapun dosa yaitu apa yang engkau gelisahkan dihatimu dan engkau tidak suka kalau ada orang yang mengetahuinya. (Hadits ini diriwayatkan oleh Imam Muslim)."
+            },
+            {
+                "title" : "Larangan Berbisik Antara Dua Orang Ketika Sedang Bertiga",
+                "before": "",
+                "arabic": "وَعَنِ ابْنِ مَسْعُودٍ – رضي الله عنه – قَالَ: قَالَ رَسُولُ اللَّهِ – صلى الله عليه وسلم: «إِذَا كُنْتُمْ ثَلَاثَةً, فَلَا يَتَنَاجَى اثْنَانِ دُونَ الْآخَرِ, حَتَّى تَخْتَلِطُوا بِالنَّاسِ; مِنْ أَجْلِ أَنَّ ذَلِكَ يُحْزِنُهُ ». مُتَّفَقٌ عَلَيْهِ, وَاللَّفْظُ لِمُسْلِمٍ. (١)  (١) – صحيح. رواه البخاري (٦٢٩٠)، ومسلم (٢١٨٤)، وليس عند مسلم لفظ «ذلك».",
+                "id" : "Hadits dari Ibnu Mas’ūd radhiyallāhu Ta’ālā ‘anhu beliau berkata: Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: “Jika kalian bertiga maka janganlah 2 orang berbicara/berbisik bisik berduaan sementara yang ketiga tidak diajak sampai kalian bercampur dengan manusia. Karena hal ini bisa membuat orang yang ketiga tadi bersedih.” (HR. Imām Bukhāri dan Imām Muslim dan lafazhnya adalah terdapat dalam Shahīh Muslim)."
+            },
+            {
+                "title" : "Adab-Adab Bermajelis",
+                "before": "A",
+                "arabic": "وَعَنِ ابْنِ عُمَرَ رضي الله عنه قَالَ: قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “لاَ يُقِيْمُ الرَّجُلُ الرَّجُلَ مِنْ مَجْلِسِهِ ثُمَّ يَجْلِسُ فِيْهِ، وَلَكِنْ تَفَسَّحُوْا وَتَوَسَّعُوْا.” مُتَّفَقٌ عَلَيْهِ.",
+                "id" : "Dari Ibnu ‘Umar radhiyallāhu Ta’ālā ‘anhumā beliau berkata: Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: Janganlah seseorang memberdirikan saudaranya dari tempat duduknya kemudian dia gantikan posisi tempat duduk saudaranya tersebut, akan tetapi hendaknya mereka melapangkan dan merenggangkan.” (Muttafaqun ‘alaih)"
+            },
+            {
+                "title" : "Anjuran Menjilati Jari Sesudah Makan",
+                "before": "",
+                "arabic": "وَعَنِ ابْنِ عَبَّاسٍ رضي الله الهم قَالَ: قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “إِذَا أَكَلَ أَحَدُكُمْ طَعَامًا فَلاَ يَمْسَحْ يَدَهُ حَتَّى يَلْعَقَهَا أَوْ يُلْعِقَهَا.” مُتَّفَقٌ عَلَيْهِ .",
+                "id" : "Dari Ibnu ‘Abbas Radiyallāhu anhuma ia berkata: Rasūlullāh Shallallāhu ‘Alayhi Wasallam bersabda: “Jika salah seorang di antara kalian makan maka janganlah ia mencuci tangannya sebelum menjilatinya atau menjilatkan kepada yang lainnya.” (Muttafaqun ‘alaih)"
+            },
+            {
+                "title" : "Adab-Adab Memberi Salam",
+                "before": "",
+                "arabic": "– وَعَنْ أَبِي هُرَيْرَةَ – رضي الله عنه – قَالَ: [قَالَ] رَسُولُ اللَّهِ – صلى الله عليه وسلم: «لِيُسَلِّمِ الصَّغِيرُ عَلَى الْكَبِيرِ, وَالْمَارُّ عَلَى الْقَاعِدِ, وَالْقَلِيلُ عَلَى الْكَثِيرِ». مُتَّفَقٌ عَلَيْهِ. (١) وَفِي رِوَايَةٍ لِمُسْلِمٍ: «وَالرَّاكِبُ عَلَى الْمَاشِي». (٢)",
+                "id" : "Dari Abū Hurairah radhiyallāhu ‘anhu bahwa Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: “Hendaklah salam itu diucapkan yang muda kepada yang tua, yang berjalan kepada yang duduk, dan yang sedikit kepada yang banyak.” (Muttafaqun Alaihi)"
+            },
+            {
+                "title" : "Adab-Adab Memberi Salam Dalam Rombongan",
+                "before": "",
+                "arabic": "وَعَنْ عَلِيٍّ رضي الله عنه قَالَ: قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “يُجْزِئُ عَنِ الْجَمَاعَةِ إِذَا مَرُّوْا أَنْ يُسَلِّمَ أَحَدُهُمْ، وَيُجْزِئُ عَنِ الْجَمَاعَةِ أَنْ يَرُدَّ أَحَدُهُمْ.” رَوَاهُ أَحْمَدُ وَالْبَيْهَقِيُّ.",
+                "id" : "Dari ‘Ali Radiyallāhu anhu ia berkata: Rasūlullah Shallallāhu Alayhi Wasallam bersabda: “Jika sekelompok orang lewat maka cukup satu orang saja di antara mereka yang mengucapkan salam mewakili semuanya dan juga cukup satu orang saja yang menjawab salam mewakili sekelompok yang lain.” (HR Ahmad dan al-Baihaqi)."
+            },
+            {
+                "title" : "Larangan Mendahului Salam Kepada Orang Kafir",
+                "before": "",
+                "arabic": "وَعَنْهُ قَالَ: قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “لاَ تَبْدَؤُوْا الْيَهُوْدَ وَلاَ النَّصَارَى بِالسَّلاَمِ، وَإِذَا لَقِيتُمُوْهُمْ فِي طَرِيْقٍ فَاضْطَرُّوْهُمْ إِلَى أَضْيَقِهِ.” أَخْرَجَهُ مُسْلِمٌ .",
+                "id" : "Dari Abu Hurairah Radiyallāhu anhu ia berkata: Rasūlullāh Shallallāhu Alayhi Wasallam bersabda: “Janganlah kalian mendahului mengucapkan salam kepada orang-orang Yahudi dan Nasrani, dan jika kalian bertemu dengan mereka disebuah jalan, desaklah mereka ke tempat yang paling sempit.” (HR Muslim)."
+            },
+            {
+                "title" : "Adab-Adab Bersin",
+                "before": "Dari Nabi shallallāhu ‘alayhi wa sallam bersabda:",
+                "arabic": "إِذَا عَطَسَ أَحَدُكُمْ فَلْيَقُلْ: اَلْحَمْدُ الله, وَلْيَقُلْ لَهُ أَخُوهُ يَرْحَمُكَ الله, فَإِذَا قَالَ لَهُ يَرْحَمُكَ الله, فَلْيَقُلْ يَهْدِيكُمُ الله, وَيُصْلِحُ بَالَكُمْ ) أَخْرَجَهُ اَلْبُخَارِيُّ",
+                "id" : "Jika salah seorang dari kalian bersin maka hendaknya dia mengatakan “Alhamdulillāh”. Dan saudaranya yang mendengarnya mengucapkan “Yarhamukallāh”. Jika saudaranya mengucapkan yarhamukallāh maka yang bersin tadi menjawab lagi dengan mengatakan “Yahdikumullāh wa yushlihu baa lakum” (semoga Allāh memberi petunjuk kepada kalian dan semoga Allāh meluruskan/memperbaiki urusanmu. (Hadits diriwayatkan oleh Imam Al-Bukhari)"
+            },
+            {
+                "title" : "Adab-Adab Minum",
+                "before": "",
+                "arabic": "وَ عَنْهُ رضي اللّه تعالى عنه قال: قال رسول الله صلى الله عليه و سلم: لَا يَشْرَبَنَّ أَحَدٌ مِنْكُمْ قَائِمًا (أخرجه مسلم) ",
+                "id" : "Dari Abū Hurairah radhiyallāhu Ta’āla ‘anhu, beliau berkata: Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda, “Janganlah sekali-kali seorang dari kalian minum dalam kondisi berdiri”.(HR Imam Muslim)"
+            },
+            {
+                "title" : "Adab-Adab Memakai Sandal",
+                "before":"Al-Hāfizh Ibnu Hajar rahimahullāh membawakan hadits dari ‘Ali radhiyallāhu Ta’ālā ‘anhu,",
+                "arabic": "َوَعَنْهُ قَالَ: قَالَ رَسُولُ اَللَّهِ صلى الله عليه وسلم إِذَا انْتَعَلَ أَحَدُكُمْ فَلْيَبْدَأْ بِالْيَمِينِ, وَإِذَا نَزَعَ فَلْيَبْدَأْ بِالشِّمَالِ, وَلْتَكُنْ اَلْيُمْنَى أَوَّلَهُمَا تُنْعَلُ, وَآخِرَهُمَا تُنْزَعُ",
+                "id" : "Beliau berkata:“Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda, ‘Jika salah seorang dari kalian menggunakan sendal maka mulailah dengan menggunakan sandal bagian kanan, jika dia melepaskan sandalnya maka hendaknya dia mulai dengan melepaskan sandal yang kiri. Maka jadikanlah yang kanan yang pertama kali dipakai dan jadikanlah yang kanan pula yang terakhir dilepas’.” (Muttafaqun ‘Alaihi)"
+            },
+            {
+                "title" : "Adab Berpakaian (Hukum Isbal)",
+                "before": "Rasulullah shallallahu ‘alayhi wa sallam bersabda:",
+                "arabic": "لَا يَنْظُرُ الله إِلَى مَنْ جَرَّ ثَوْبَهُ خُيَلَاءَ (مُتَّفَقٌ عَلَيْه)",
+                "id" : "“Allāh tidak akan memandang orang yang menggeretkan (menjulurkan pakaiannya hingga terseret) pakaiannya karena sombong.”(Muttafaqun ‘alaih)"
+            },
+            {
+                "title" : "Adab Makan (Makan & Minum Dengan Tangan Kanan)",
+                "before": "",
+                "arabic": "وَعَنْهُ أَنَّ رَسُوْلَ الله صَلَّى الله عَلَيْهِ وَ سَلَّمَ قَالَ: إِذَا أَكَلَ أَحَدُكُمْ فَلْيَأْكُلْ بِيَمِينِهِ وَإِذَا شَرِبَ فَلْيَشْرَبْ بِيَمِينِهِ فَإِنَّ الشَّيْطَانَ يَأْكُلُ بِشِمَالِهِ وَيَشْرَبُ بِشِمَالِهِ (أخرجه مسلم)",
+                "id" : "Dari Ibnu ‘Umar radhiyallāhu Ta’āla ‘anhumā bahwasanya Rasūlullāh Shallallāhu ‘alayhi wa sallam bersabda : “Jika salah seseorang di antara kalian makan, maka hendaknya dia makan dengan tangan kanannya dan jika minum maka hendaknya juga minum dengan tangan kanannya. Karena sesungguhnya syaithan makan dengan tangan kirinya dan minum dengan tangan kirinya pula.” (HR Muslim)"
+            },
+            {
+                "title" : "Adab Makan (Makan & Minum Dengan Tangan Kanan)",
+                "before": "",
+                "arabic": "                وَعَنْ عَمْرِو بْنِ شُعَيْبٍ, عَنْ أَبِيهِ, عَنْ جَدِّهِ قَالَ : قَالَ رَسُولُ اَللَّهِ صلى الله عليه وسلم ( كُلْ, وَاشْرَبْ, وَالْبَسْ, وَتَصَدَّقْ فِي غَيْرِ سَرَفٍ, وَلَا مَخِيلَةٍ ) أَخْرَجَهُ أَبُو دَاوُدَ, وَأَحْمَدُ, وَعَلَّقَهُ اَلْبُخَارِيُّ",
+                "id" : "Dari Amar Ibnu Syu’aib, dari ayahnya, dari kakeknya, radhiyallāhum ‘anhu bahwa Rasulullāh shallallāhu ‘alayhi wa sallam bersabda: “Makanlah, minumlah, berpakaianlah, dan bersedekahlah tanpa berlebihan dan sikap sombong.” (Riwayat Ahmad dan Abu Dawud. Hadits mu’allaq menurut Bukhari)"
             }
         ]
     },
