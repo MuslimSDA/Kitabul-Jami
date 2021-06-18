@@ -184,10 +184,86 @@
         ]
     },
     {
-        "bab" : "Bab 3 - Sifat Zuhud dan Wara'"
+        "bab" : "Bab 3 - Sifat Zuhud dan Wara'",
+        "hadits" : [
+            {
+                "title" : "Menjauhi Hal-Hal Syubhat",
+                "before": "",
+                "arabic": "عَنِ النُّعْمَانِ بْنِ بَشِيْرٍ رضي الله تعالى عنهما قَالَ: سَمِعْتُ رَسُوْلَ اللَّهِ صلى الله عليه و سلم يَقُوْلُ -وَأَهْوَى النُّعْمَانُ بِإِصْـبَعَيْهِ إِلَى أُذُنَيْهِ-: “إِنَّ الْحَلالَ بَـيِّنٌ، وَإِنَّ الْحَرَامَ بَيِّنٌ، وَبَيْنَهُمَا مُشْتَبِهَاتٌ، لاَ يَعْلَمُهُنَّ كَثِيْرٌ مِنَ النَّاسِ، فَمَنِ اتَّقَى الشُّـبُهَاتِ فَقَدِ اسْتَبْرَأَ لِدِيْنِهِ وَعِرْضِهِ، وَمَنْ وَقَعَ فِيْ الشُّبُهَاتِ وَقَعَ فِيْ الْحَرَامِ: كَالرَّاعِيْ يَرْعَى حَوْلَ الْحِمَى يُوْشِكُ أَنْ يَقَعَ فِيْهِ، أَلاَ وَإِنَّ لِكُلِّ مَلِكٍ حِمًى، أَلاَ وَإِنَّ حِمَى اللَّهِ: مَحَارِمُهُ، أَلاَ وَإِنَّ فِيْ الْجَسَدِ مُضْغَةً، إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ، أَلاَ وَهِيَ: اَلْقَلْبُ.” مُتَّفَقٌ عَلَيْهِ.",
+                "id": "Dari shahābat Nu’mān bin Basyīr -semoga Allāh meridhai keduanya-, ia berkata: Aku mendengar Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda-lantas Nu’mān memberi isyarat dengan kedua jarinya ke kedua telinganya-: (menunjukkan beliau mendengar langsung hadits ini dari Nabi shallallāhu ‘alayhi wa sallam). “Sesungguhnya yang halal itu jelas dan yang haram itu jelas. Dan di antara keduanya (antara haram yang jelas dan halal yang jelas) ada perkara-perkara yang musytabihāt (samar/rancu tentang haram dan halalnya). Kebanyakan orang tidak mengetahui hakikat dari perkara yang rancu ini (apakah dia halal ataukah dia haram). Barangsiapa yang menjauhkan diri dari syubhāt (perkara-perkara yang rancu) maka sungguh dia telah mensucikan agamanya dan harga dirinya. Dan barangsiapa yang terjerumus dalam perkara-perkara yang syubhat maka dia akan terjerumus dalam perkara-perkara yang haram. Sebagaimana penggembala yang dia menggembalakan hewan gembalaannya di sekitar daerah terlarang, dikhawatirkan hewan-hewannya akan masuk ke dalam daerah larangan tersebut. Ketahuilah, bahwasanya setiap raja itu memiliki daerah larangan. Ketahuilah, bahwasanya daerah larangan Allāh adalah hal-hal yang diharamkan oleh Allāh Subhānahu wa Ta’āla. Ketahuilah bahwasanya di dalam jasad itu ada segumpal daging. Jika segumpal daging itu baik maka baik pula seluruh jasad. Dan jika segumpal daging itu rusak, maka rusak pula seluruh jasad. Ketahuilah, dia adalah jantung.” (HR Al Imām Bukhāri dan Al Imām Muslim, Muttafaqun ‘alayhi)"
+            },
+            {
+                "title" : "Larangan Menjadi Hamba Dunia",
+                "before": "",
+                "arabic": "وَعَنْ أَبِيْ هُرَيْرَةَ رضي الله عنه قَالَ: 8قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “تَعِـسَ عَـبْدُ الدِّيْنَارِ وَالدِّرْهَـمِ وَالْقَطِـيْفَةِ، إِنْ أُعْطِيَ رَضِيَ، وَإِنْ لَمْ يُعْطَ لَمْ يَرْضَ.” أَخْرَجَهُ الْبُخَارِيُّ.",
+                "id": "Dari Abū Hurairah Radhiyallāhu ‘anhu ia berkata: Rasūlullāh Sallallāhu ‘Alayhi Wasallam bersabda: “Celaka budak dinar dan budak dirham, dan budak kain qathīfah. Kalau diberikan dunia tersebut (entah dinar, dirham atau kain yang lembut tersebut) dia senang dan kalau tidak mendapatkan dunia tersebut diapun tidak rela (marah).” (HR Bukhari)"
+            },
+            {
+                "title" : "Perintah untuk Wara’ kepada Dunia",
+                "before": "",
+                "arabic": "وَعَنِ ابْنِ عُمَرَ رضي الله عنهما قَالَ: أَخَذَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم بِمَنْكِـبَيَّ، فَقَالَ: “كُنْ فِيْ الدُّنْـيَا كَأَنَّكَ غَرِيْبٌ، أَوْ عَابِرُ سَبِيْلٍ.” وَكَانَ اِبْنُ عُمَرَ رضي الله عنهما يَقُوْلُ: إِذَا أَمْسَيْتَ فَلاَ تَنْتَظِرِ الصَّبَاحَ، وَإِذَا أَصْبَحْتَ فَلاَ تَنْتَظِرِ الْمَسَاءَ، وَخُذْ مِنْ صِحَّتِكَ لِسَقَمِكَ، وَمِنْ حَيَاتِكَ لِمَوْتِكَ. أَخْرَجَهُ الْبُخَارِيُّ .",
+                "id": "Dari Ibnu ‘Umar radhiyallãhu ‘anhumā ia berkata: Rasūlullāh shallallāhu ‘alayhi wa sallam memegang kedua pundakku dan berkata: “Jadilah di dunia ini seakan-akan kamu orang asing atau orang yang numpang lewat.” Dan Ibnu ‘Umar radhiyallāhu Ta’āla ‘anhu ‘anhuma berkata: “Jika engkau telah tiba di sore hari, maka jangan tunggu waktu pagi hari. Dan jika engkau berada di pagi hari maka jangan kau tunggu tibanya sore hari. Maka gunakanlah (manfaatkanlah) kesehatanmu sebelum datang sakitmu. Dan manfaatkanlah kehidupanmu sebelum kematianmu (beramallah di kehidupanmu sebelum tiba wafatmu).” (HR Imām Al Bukhari)"
+            },
+            {
+                "title" : "Larangan Menyerupai Kaum Kafir",
+                "before": "",
+                "arabic": "وَعَنِ ابْنِ عُمَرَ رضي الله الهم قَالَ: قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “مَنْ تَشَبَّهَ بِقَوْمٍ فَهُوَ مِنْهُمْ.” أَخْرَجَهُ أَبُوْ دَاوُدَ ، وَصَحَّحَهُ اِبْنُ حِبَّان.",
+                "id": "Dari Ibnu ‘Umar radhiyallāhu Ta’āla ‘anhumā ia berkata: Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: “Barangsiapa menyerupai suatu kaum, maka ia termasuk dari kaum tersebut.” (HR Imām Abū Dāwūd dalam Sunannya dan dishahihkan oleh Ibnu Hibban)"
+            },
+            {
+                "title" : "Perintah Meminta Pertolongan Hanya Kepada Allāh",
+                "before": "",
+                "arabic": "وَعَنِ ابْنِ عَبَّاسٍ رضي الله الهم قَالَ: كُنْتُ خَلْفَ النَّبِيِّ صلى الله عليه و سلم يَوْمًا، فَقَالَ: “يَا غُلاَمُ، اِحْفَظِ اللَّهَ يَحْفَظْكَ، اِحْفَظِ اللَّهَ تَجِدْهُ تُجَاهَكَ، وَإِذَا سَأَلْتَ فَاسْأَلِ اللَّهَ، وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللَّهِ.” رَوَاهُ التِرْمِذِيُّ، وَقَالَ: حَسَنٌ صَحِيْحٌ.",
+                "id": "Dari Ibnu ‘Abbās radhiyallāhu Ta’āla ‘anhumā mengatakan: Pada suatu hari aku pernah di bonceng Nabi shallallāhu ‘alayhi wa sallam dan Beliau bersabda: “Wahai remaja (pemuda), jagalah Allāh, niscaya Dia akan menjagamu. Jagalah Allāh, niscaya kamu akan mendapati-Nya selalu hadir di hadapanmu. Jika kamu meminta sesuatu, mintalah kepada Allāh. Dan jika kamu memohon pertolongan, mohonlah pertolongan kepada Allāh.” (HR Tirmidzi, dan ia berkata: “Hadits ini derajatnya adalah hasan shahih.”)"
+            },
+            {
+                "title" : "Perintah Zuhud Terhadap Dunia",
+                "before": "",
+                "arabic": "وَعَنْ سَهْلِ بْنِ سَعْدٍ رضي الله عنه قَالَ: جَاءَ رَجُلٌ إلَى النَّبِيِّ صلى الله عليه و سلم فَقَالَ: يَا رَسُوْلَ اللَّهِ، دُلَّنِيْ عَلَى عَمَلٍ إِذَا عَمِلْـتُـهُ أَحَبَّنِيَ اللَّهُ، وَأَحَبَّنِيَ النَّاسُ. فَقَالَ: “اِزْهَدْ فِيْ الدُّنْـيَا يُحِبَّكَ اللَّهُ، وَازْهَدْ فِيْمَا عِنْدَ النَّاسِ يُحِبَّكَ النَّاسُ.” رَوَاهُ اِبْنُ مَاجَهُ وَسَنَدُهُ حَسَنٌ.",
+                "id": "Dari Sahl bin Sa’ad Radiyallahu ‘anhu ia berkata: Seorang sahabat menemui Nabi shallallāhu ‘alayhi wa sallam dan berkata: “Wahai Rasūlullāh, tunjukkan kepadaku suatu perbuatan yang jika aku lakukan, aku akan dicintai oleh Allāh dan manusia.” Beliau bersabda: “Zuhudlah dari dunia, niscaya Allāh akan mencintaimu dan zuhudlah dari apa yang ada pada manusia, niscaya mereka akan mencintaimu.” (HR. Ibnu Majah dan lainnya dengan sanad yang hasan)"
+            },
+            {
+                "title" : "Sebab Untuk Meraih Kecintaan Allah Kepada Seorang Hamba",
+                "before": "",
+                "arabic": "عَنْ سَعْدِ بْنِ أَبِيْ وَقَّاصٍ رضي الله عنه قاَلَ: سَمِعْتُ رَسُوْلَ اللَّهِ صلى الله عليه و سلم يَقُوْلُ: “إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ التَّقِيَّ الْغَنِيَّ الخَفِيَّ.” أَخْرَجَهُ مُسْلِمٌ.",
+                "id": "Dari Sa’ad bin Abi Waqqash radhiyallāhu ‘anhu ia berkata: Aku pernah mendengar Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: “Sesungguhnya Allāh mencintai seorang hamba yang bertaqwa, yang merasa cukup, dan yang rajin beribadah secara diam-diam.” (HR Muslim)"
+            },
+            {
+                "title" : "Meninggalkan Hal-Hal Yang Bukan Urusannya",
+                "before": "",
+                "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رضي الله عنه قَالَ: قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “مِنْ حُسْنِ إِسْلاَمِ الْمَرْءِ، تَرْكُهُ مَا لاَ يَعْنِيْهِ.” رَوَاهُ التِّرْمِذِيُّ، وَقَالَ: حَسَنٌ",
+                "id": "Dari Abū Hurairah radhiyallāhu ‘anhu, beliau berkata: Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: “Diantara keelokan Islam seseorang adalah meninggalkan apa yang bukan urusannya.” (HR Tirmidzi, ia berkata: “Hadits yang hasan.”)"
+            },
+            {
+                "title" : "Larangan Berlebihan Ketika Makan",
+                "before": "",
+                "arabic": "وَعَنِ الْمِقْدَامِ بْنِ مَعْدِي كَرِبَ قَالَ: قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “مَا مَلأَ ابْنُ آدَمَ وِعَاءً شَرًّا مِنْ بَطْنِ.” أَخْرَجَهُ التِّرْمِذِيُّ وَحَسَّنَهُ.",
+                "id": "Dari Al Miqdam bin Ma’dikarib radhiyallāhu ‘anhu ia berkata: Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: “Tidaklah anak cucu Adam memenuhi suatu tempat yang lebih buruk daripada perutnya.” (HR at Tirmidzi dan ia menghasankannya)"
+            },
+            {
+                "title" : "Keutamaan Bertaubat kepada Allah Subhanahu wa Ta’ala",
+                "before": "",
+                "arabic": "وَعَنْ أَنَسٍ رضي الله عنه قَالَ: قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “كُلُّ بَنِيْ آدَمَ خَطَّاءٌ، وَخَيْرُ الْخَطَّائِيْنَ التَّوَّابُوْنَ.” أَخْرَجَهُ التِّرْمِذِيُّ، وَابْنُ مَاجَهْ، وَسَنَدُهُ قَوِّيٌ.",
+                "id": "Dari Anas radhiallahu ‘anhu, beliau berkata: “Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: ‘Seluruh anak Adam senantiasa berbuat kesalahan dan sebaik-baik orang yang berbuat kesalahan adalah mereka yang bertaubat kepada Allāh Subhānahu wa Ta’āla’.” (HR At Tirmidzi dan Ibnu Majah dan sanad qawiy)"
+            },
+            {
+                "title" : "Diam Adalah Hikmah",
+                "before": "",
+                "arabic": "عَنْ أَنَسٍ رضي الله عنه قَالَ: قَالَ رَسُوْلُ اللَّهِ صلى الله عليه و سلم : “اَلصَّمْتُ حِكَمٌ، وَقَلِيْلٌ فَاعِلُهُ.”(أَخْرَجَهُ الْبَيْهَقِيُّ فِيْ “اَلشُّعَبِِ” بِسَنَدٍ ضَعِيْفٍ وَصَحَّحَ أَنَّهُ مَوْقُوْفٌ مِنْ قَوْلِ لُُقْْمَانََ اََلْْحَكِِيْمِ)",
+                "id": "Dari Anas radhiyallāhu ‘anhu beliau berkata, Rasūlullāh shallallāhu ‘alayhi wa sallam bersabda: “Diam adalah hikmah dan sedikit pelakunya (sedikit yang melakukannya).” (HR Imām Al Baihaqi dalam kitabnya Asy Syu’abul Īmān dengan sanad yang dha’īf dan sebagian ulama membenarkan bahwasanya hadits ini adalah dari perkataan Luqmān Al Hakīm)"
+            }
+        ]
     },
     {
-        "bab" : "Bab 4 - Peringatan Terhadap Akhlak-Akhlak Buruk"
+        "bab" : "Bab 4 - Peringatan Terhadap Akhlak-Akhlak Buruk",
+        "hadits" : [
+            {
+                "title" : "",
+                "before": "",
+                "arabic": "",
+                "id": ""
+            },
+        ]
     },
     {
         "bab" : "Bab 5 - Anjuran Memiliki Akhlah Mulia"
